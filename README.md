@@ -4,6 +4,7 @@
 ## Tool for Inferential Statistical Analysis + Natural Disaster Early Warning System
 ## GovHack 2016 Submission
 ![GovHack Logo][govhacklogo]
+![DangerZone Logo][dangerzonelogo]
 
 
 There are 2 distinct part to this submission.   
@@ -23,3 +24,4 @@ We used the example of rainfall and flooding, obviously there are other data cor
 
 
 [govhacklogo]: https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/GovHack_logo.svg/250px-GovHack_logo.svg.png
+[dangerzonelogo]: dangerzonelogo.png
